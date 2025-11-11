@@ -4,9 +4,9 @@ Your job is to create a class called ```Cube2```.  You need to have finished the
 
 You should pass all of the tests in the ```Cube2Tester``` class (provided).
 
-Add the "Cube.java" file from your <b>Cube I lab</b> to the src folder, and add your code to the provided "Cube2.java" file. 
+Add the "Cube.java" file from your <b>Cube I lab</b> to the src folder, and write your code inside the provided "Cube2.java" file. 
 
-The ```Cube2``` class has the following members:
+The ```Cube2``` class has the following members: (some are already provided)
 * a Cube2 property called ```basicCube``` representing the original cube functionality (given)
 * a String property called ```color``` to store the color of the cube
 * a getter method called ```getSide()``` (given)
